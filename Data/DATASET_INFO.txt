@@ -1,0 +1,4 @@
+The dataset used in this project is not included in this repository due to its size and distribution policy.
+
+You may request access to the dataset directly from York University at the following link:
+https://www.yorku.ca/research/bccc/ucs-technical/cybersecurity-datasets-cds/
